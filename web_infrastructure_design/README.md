@@ -23,7 +23,7 @@ Added:
 1 load-balancer (HAproxy)
 1 set of application files (your code base)
 1 database (MySQL)
-[Task_1](https://zupimages.net/up/23/44/g9cn.png)
+![Task_1](https://zupimages.net/up/23/44/g9cn.png)
 
 
 
@@ -33,7 +33,7 @@ Added:
 3 firewalls
 1 SSL certificate to serve www.foobar.com over HTTPS
 3 monitoring clients (data collector for Sumologic or other monitoring services)
-[Task_2](https://zupimages.net/up/23/44/srf4.jpg)
+![Task_2](https://zupimages.net/up/23/44/srf4.jpg)
 
 
 
@@ -43,7 +43,7 @@ Added:
 1 server
 1 load-balancer (HAproxy) configured as cluster with the other one
 Split components (web server, application server, database) with their own server
-[Task_3](https://zupimages.net/up/23/44/xv9s.png)
+![Task_3](https://zupimages.net/up/23/44/xv9s.png)
 
 
 
